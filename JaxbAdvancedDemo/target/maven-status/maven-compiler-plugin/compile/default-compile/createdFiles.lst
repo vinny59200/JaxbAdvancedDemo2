@@ -1,0 +1,7 @@
+com\websystique\xml\JaxbCodeGenerationDemo.class
+com\websystique\xml\model\ConverterException.class
+com\websystique\xml\model\DateConverter.class
+com\websystique\xml\workflow\ObjectFactory.class
+com\websystique\xml\workflow\Address.class
+com\websystique\xml\workflow\Adapter1.class
+com\websystique\xml\workflow\Sendee.class
